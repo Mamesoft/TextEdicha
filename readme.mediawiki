@@ -1,0 +1,15 @@
+=TextEdicha=
+
+This is [https://github.com/uhyo/socketchat SocketChat] Client by C#.
+
+==required Library==
+*SocketIO4Net.Client https://socketio4net.codeplex.com/SourceControl/latest
+(Please use commit ff3a75101f20 or newer. TextEdicha cannot work with SocketIO4Net.Client v0.06.26 from Nuget)
+*Json.NET http://james.newtonking.com/json
+(You can install from Nuget)
+*WebSocket4Net http://websocket4net.codeplex.com/
+(You can install from Nuget)
+
+
+==Web Page==
+http://mamesoft.jp/soft/textedicha/win/index.html
