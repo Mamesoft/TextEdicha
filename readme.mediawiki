@@ -13,3 +13,7 @@ This is [https://github.com/uhyo/socketchat SocketChat] Client by C#.
 
 ==Web Page==
 http://mamesoft.jp/soft/textedicha/win/index.html
+
+==License==
+Released under the MIT license
+see LICENSE
